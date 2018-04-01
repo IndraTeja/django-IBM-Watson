@@ -11,4 +11,4 @@ Analyses the user Tone in terms of Anger, Disgust, Fear, Joy, Sad
 
 ## LanguageTranslatorV2
 Translate the post Language into any language we want
-<img src="https://thumb.ibb.co/g2HbC7/1.jpg">
+<img src="https://image.ibb.co/dLEOs7/1.jpg">
