@@ -1,6 +1,6 @@
 # django-IBM-Watson
 
-https://indra-watson1.herokuapp.com/
+https://indra-watson.herokuapp.com/
 
 
 
