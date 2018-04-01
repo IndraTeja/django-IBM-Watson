@@ -12,3 +12,7 @@ Analyses the user Tone in terms of Anger, Disgust, Fear, Joy, Sad
 ## LanguageTranslatorV2
 Translate the post Language into any language we want
 <img src="https://image.ibb.co/dLEOs7/1.jpg">
+
+
+### Word Count
+<img src="https://image.ibb.co/ghEHKn/Capture.jpg">
